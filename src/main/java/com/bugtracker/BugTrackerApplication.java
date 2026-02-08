@@ -2,7 +2,6 @@ package com.bugtracker;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
 import com.bugtracker.entity.User;
 import com.bugtracker.repository.UserRepository;
 import org.springframework.boot.CommandLineRunner;
